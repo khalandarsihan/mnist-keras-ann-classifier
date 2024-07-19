@@ -136,3 +136,8 @@ data/external/
 # Ignore initialization and cleanup scripts
 init_deeplearning_project.sh
 cleanup_project.sh
+
+
+# Ignore pickle files
+*.pkl
+
